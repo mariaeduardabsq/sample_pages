@@ -1,2 +1,2 @@
 # sample_pages
-Seja Bem-Vindo ao site!!
+Seja Bem-Vindo ao site!
